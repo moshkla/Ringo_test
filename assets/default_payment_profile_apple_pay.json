@@ -1,0 +1,12 @@
+{
+    "provider": "apple_pay",
+    "data": {
+      "merchantIdentifier": "merchant.com.dietWatchers",
+      "displayName": "Diet Watchers",
+      "merchantCapabilities": ["3DS", "debit", "credit"],
+      "supportedNetworks": ["amex", "visa", "mada", "masterCard"],
+      "countryCode": "SA",
+      "currencyCode": "SAR"
+    }
+  }
+  
