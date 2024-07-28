@@ -1,551 +1,1 @@
-{
-  "the remaining amount will be added to your wallet": "سيتم اضافة المبلغ المتبقى للمحفظة",
-  "rate appointment": "تقييم الحجز",
-  "repeat appointment": "تكرار الحجز",
-  "are you sure you want to cancel this appointment": "هل انت متاكد من رغبتك في الغاء هذا الحجز؟",
-  "pm": "م",
-  "am": "ص",
-  "kindly fill in all reservation info": "الرجاء ملء جميع معلومات الحجز",
-  "online follow up": "متابعة عن بعد",
-  "clinic follow up":"متابعة العيادة",
-  "free follow up for within 10 days":"متابعة مجانية لمدة 10 أيام",
-  "this dietition has no appointments for now": "هذا الاخصائي ليس لديه مواعيد متاحة الان",
-  "kindly select a dietition": "الرجاء تحديد الأخصائي",
-  "appointment details":"تفاصيل الحجز",
-  "you can't book with this clinic until the current appointment is over or cancelled": "لا يمكنك الحجز مع هذا العيادة حتى يتم انهاء الحجز الحالي او الغاء الحجز",
-  "you can't book with this dietition as they are not available":"لا يمكنك الحجز مع هذا الأخصائي لأنه غير متوفر",
-  "no working hours available": "لا توجد ساعات العمل",
-  "pay at the clinic": "ادفع في العيادة",
-  "reservation created successfully": "تم انشاء الحجز بنجاح",
-  "remotely": "عن بعد",
-  "at clinic": "في العيادة",
-  "redeemed": "تم التحصيل",
-  "redeem to wallet": "تحصيل البطاقة للمحفظة",
-  "use my code to get 50 sar on your first subscription": "استخدم الكود الخاص بي للحصول على 50 ر.س على اول خطة الاشتراك",
-  "deducted amount from wallet": "المبلغ المخصوم من المحفظة",
-  "your current credit": "رصيدك الحالي",
-  "deduct amount from wallet": "خصم المبلغ من المحفظة",
-  "now": "الآن",
-  "payment type":"نوع الدفع",
-  "tell us how satisfied you are with our specialist":"أخبرنا عن مدى رضاك ​​عن الأخصائي",
-  "type":"النوع",
-  "follow_up": "متابعة",
-  "appointment time": "وقت الحجز",
-  "offline": "حضوري",
-  "online":"عن بعد",
-  "add comment": "اضافة تعليق",
-  "kindly select a clinic": "الرجاء اختيار العيادة",
-  "select specialist": "اختر الاخصائي",
-  "select clinic": "اختر العيادة",
-  "appointment type": "نوع الحجز",
-  "select date": "اختر التاريخ",
-  "select time": "اختر الوقت",
-  "appointment booking": "حجز موعد",
-  "insufficient balance": "رصيد غير كافي",
-  "specialist details": "تفاصيل الاخصائي",
-  "ratings": "تقييمات",
-  "working hours": "مواعيد العمل",
-  "launch map": "فتح الخريطة",
-  "clinic location": "موقع العيادة",
-  "nutrition specialists":"اخصائيين التغذية",
-  "appointment number": "رقم الحجز",
-  "next appointment": "الموعد القادم",
-  "cancel appointment": "الغاء الحجز",
-  "edit appointment": "تعديل الحجز",
-  "my appointments": "مواعيدي",
-  "book a date": "حجز موعد",
-  "clinics": "العيادات",
-  "clinic name": "اسم العيادة",
-  "unused": "غير مستخدمة",
-  "used": "مستخدمة",
-  "share":"مشاركة",
-  "referral code":"كود المشاركة",
-  "pay with tabby": "دفع من خلال Tabby",
-  "pay with a credit card": "دفع ببطاقة بنكية",
-  "status": "الحالة",
-  "your subscription will be paused starting from": "سيتم ايقاف اشتراكك بدأ من",
-  "logging out": "جاري تسجيل الخروج 😔",
-  "something went wrong": "حدث خطآ ما اثناء تنفيذ الطلب",
-  "refresh": "اعادة تحميل",
-  "network error": "خطآ في الاتصال. حاول مجددا",
-  "register": "تسجيل",
-  "almost done": "لم يتبقي الكثير",
-  "how did you hear about us": "كيف سمعت عنا ؟",
-  "back": "رجوع",
-  "week": "اسبوع",
-  "file's size cannot exceed 1 mb": "حجم الصورة اكبر من ١ م.ب",
-  "set your desired program specs": "قم بتحديد خصائص البرنامج الخاص بك",
-  "change language": "تغيير اللغة",
-  "are you sure you want to logout": "هل أنت متأكد من تسجيل الخروج ؟",
-  "logout": "تسجيل خروج",
-  "cancel": "الغاء",
-  "weight": "الوزن",
-  "height": "الطول",
-  "goal": "الهدف",
-  "dislikes": "المكونات الغير مرغوب فيها",
-  "home": "المنزل",
-  "main": "الرئيسية",
-  "login": "تسجيل الدخول",
-  "start now": "ابدأ الآن",
-  "choose the program that suits you": "اختر النظام اللي يناسبك",
-  "with diet watchers": "مع دايت واتشرزستحقق الأهداف المطلوبة بطريقة صحية",
-  "delivery to your doorstep": "توصيل لين عندك",
-  "diet watchers offers you": "دايت وتشرز يقدم لك أنظمة غذائية مختلفة ومرنة لتتناسب مع طبيعة يومك",
-  "you can order the meals you need for your diet": "مع دايت وتشرز يمكنك طلب الوجبات التي تحتاجها لنظامك الغذائي وتوصيلها لمكانك في أي وقت",
-  "achieve the best results": "احصل علي أفضل النتائج",
-  "show all": "عرض الكل",
-  "Add": "إضافة",
-  "Description": "الوصف",
-  "Subscribe now": "اشترك الآن",
-  "Balanced program": "البرنامج المتوازن",
-  "Full package": "الحزمة الكاملة",
-  "Duration": "المدة الزمنية",
-  "Type of delivery": "نوع الاستلام",
-  "Type of follow-up": "نوع المتابعة",
-  "Notes": "ملاحظات",
-  "Cost": "التكلفة",
-  "Follow-up": "المتابعة",
-  "order summary": "ملخص الطلب",
-  "Services": "الخدمات",
-  "Delivery address": "عنوان التوصيل",
-  "payment summary": "ملخص الدفع",
-  "Package cost": "تكلفة الحزمة",
-  "Subscription confirmation": "تأكيد الاشتراك",
-  "Payment cards": "بطاقات الدفع",
-  "Athlete meals": "وجبات الرياضيين",
-  "Successfully subscribed": "تم الاشتراك بنجاح",
-  "You have successfully subscribed to the Balanced program Full package for 20 days from now": "لقد قمت بالاشتراك بنجاح في البرنامج المتوازن - الحزمة الكاملة لمدة 20 يوم",
-  "Go to diet plan": "الذهاب لتحديد بداية الاشتراك واختيار الوجبات",
-  "Back to home": "العودة للرئيسية",
-  "app language": "لغة التطبيق",
-  "Please choose the application language that suits you": "برجاء اختيار لغة التطبيق التي تناسبك",
-  "continue": "متابعة",
-  "enter": "الدخول",
-  "phone number": "رقم الهاتف",
-  "enter as a guest": "التصفح كزائر",
-  "by registering with us": "بالتسجيل لدينا فأنت توافق علي الشروط والأحكام الخاصة بنا داخل التطبيق",
-  "sign up using apple": "تسجيل بواسطة آبل",
-  "sign up using google": "تسجيل بواسطة جوجل",
-  "or": "أو",
-  "activation code": "كود التفعيل",
-  "we have sent you an activation code to your phone number": "لقد ارسلنا لك رمز التحقق إلي جوالك",
-  "i did not receive the activation code": "لم استلم كود التفعيل ؟",
-  "activate": "تفعيل",
-  "resend": "إعادة إرسال",
-  "to verify the code": "للتحقق من الرمز",
-  "Various food programs that meet your needs": "برامج غذائية متنوعة تلبي احتياجاتك",
-  "we are pleased to have you registered with us": "نحن سعداء بوجودك معنا، يرجى الآن تسجيل البيانات الأساسية المطلوبة منك لإستكمال عملية الدخول",
-  "welcome": "مرحباً بك",
-  "profile picture": "الصورة الشخصية",
-  "email": "البريد الالكتروني",
-  "name": "الاسم",
-  "enter your name": "ادخل اسم المستخدم",
-  "enter your email optional": "ادخل البريد الالكتروني (اختياري)",
-  "menu": "ألقائمة",
-  "cart": "السلة",
-  "profile": "حسابي",
-  "looking for": "ابحث عن ..",
-  "ok": "حسناً",
-  "add": "إضافة",
-  "Shopping cart": "السلة",
-  "List": "القائمة",
-  "add_notes_here": "أضف ملاحظاتك هنا",
-  "enter_discount_code": "ادخل كود الخصم",
-  "activated": "مفعل",
-  "download_invoice": "تحميل الفاتورة",
-  "confirm_subscription": "تأكيد الاشتراك",
-  "have_discount_coupon": "هل لديك كوبون خصم؟",
-  "includes_vat": "(تشمل 15% الضريبة المضافة)",
-  "about app": "عن التطبيق",
-  "my addresses": "عناويني",
-  "my orders": "طلباتي",
-  "diet settings": "إعدادات النظام",
-  "account settings": "إعدادات الحساب",
-  "terms of use": "سياسة الاستخدام",
-  "language": "اللغة",
-  "contact us": "تواصل معنا",
-  "payment cards": "بطاقات الدفع",
-  "username": "اسم المستخدم",
-  "notes": "ملاحظات",
-  "send": "إرسال",
-  "WhatsApp": "واتس آب",
-  "call us": "اتصل بنا",
-  "an error occured": "حدث خطأ ما",
-  "description": "الوصف",
-  "nutrition information": "معلومات القيمة الغذائية",
-  "fats": "دهون",
-  "protein": "بروتين",
-  "carbs": "كربوهيدرات",
-  "related meals": "اكلات ذات صلة",
-  "show more": "عرض المزيد",
-  "show less": "عرض أقل",
-  "add to cart": "اضف إلى السلة",
-  "you can review the other items in the cart to continue your purchase": "يمكنك مشاهدة باقي المنتجات المضافة لديك في السلة لإكمال عملية الشراء",
-  "cart total": "إجمالي السلة",
-  "checkout": "الذهاب للشراء",
-  "continue shopping": "تابع التسوق",
-  "added to the cart": "تمت الإضافة إلى السلة",
-  "Date of Birth": "تاريخ الميلاد",
-  "Save Changes": "حفظ التغييرات",
-  "Change Password": "تغيير الرقم السري",
-  "Select Type": "اختر النوع",
-  "message_update_password": "قم بإنشاء كلمة السر الجديدة وحاول استخدام الرموز والأرقام لتقوية كلمة المرور والإبتعاد عن كلمات المرور القديمة",
-  "Old Password": "كلمة السر القديمة",
-  "New Password": "كلمة السر الجديدة",
-  "Confirm New Password": "تأكيد - كلمة السر الجديدة",
-  "Follow us on": "تابعنا عبر",
-  "Contact us on": "تواصل معنا عبر",
-  "notifications": "الإشعارات",
-  "new": "جديد",
-  "previous": "سابق",
-  "accepted": "مقبولة",
-  "completed": "مكتملة",
-  "cancelled": "ملغية",
-  "status_tracking": "متابعة حالة الطلب",
-  "order_details": "تفاصيل الطلب",
-  "required_items": "العناصر المطلوبة",
-  "total_cost": "اجمالي التكلفة",
-  "All orders": "كل الطلبات",
-  "total_invoice_amount": "اجمالي الفاتورة",
-  "the_service": "الخدمة",
-  "services_list": "قائمة الخدمات",
-  "new_address": "عنوان جديد",
-  "addresses": "العناوين",
-  "edit": "تعديل",
-  "delete": "حذف",
-  "new_card": "بطاقة جديدة",
-  "cardholder_name": "اسم مالك البطاقة",
-  "expiration_date": "تاريخ الانتهاء",
-  "cvv_number": "CVV رقم",
-  "save_card": "حفظ البطاقة",
-  "your birth date": "تاريخ ميلادك",
-  "day": "يوم",
-  "month": "الشهر",
-  "year": "السنة",
-  "your age": "عمرك",
-  "years": "سنة",
-  "select gender": "تحديد الجنس",
-  "what's your current weight": "ما هو وزنك الحالي ؟",
-  "this information helps us determine the appropriate calories for you": "هذه المعلومة تساعدنا في تحديد السعرات المناسبة لك",
-  "what's your goal": "ما هو هدفك ؟",
-  "we offer you a comprehensive diet system that suits your goals": "نقدم لك نظام غذائي متكامل يناسب اهدافك",
-  "what's your current height": "كم طولك ؟",
-  "next": "التالي",
-  "birthdate": "تاريخ الميلاد",
-  "pick unwanted ingerdiants": "اختر المكونات الغير مرغوب فيها",
-  "we will alert you if the selected dish contains an ingredient that you do not want": "سنقوم بتنبيهك اذا الطبق المختار يحتوي على مكون لا ترغب فيه",
-  " great please specify your location now": "ممتاز! يرجى الآن تحديد موقعك",
-  "we are extremely please to have you registered": "نحن سعداء بانضمامك لاسرة دايت واتشرز، سنبذل جهدنا لتقديم افضل الخدمات",
-  "set location": "تحديد العنوان",
-  "later": "لاحقاً",
-  "go to checkout": "الذهاب للشراء",
-  "order value": "تكلفة الطلب",
-  "delivery fees": "رسوم التوصيل",
-  "coupon discount": "كوبون خصم",
-  "orders cart": "سلة الطلبات",
-  "review your order before purchase": "راجع طلباتك قبل الذهاب لعملية الدفع",
-  "Nutritional Program": "البرنامج الغذائي",
-  "Determine the start of the subscription": "تحديد بداية الاشتراك",
-  "save location": "تحديد الموقع",
-  "residential": "المنزل",
-  "office": "المكتب",
-  "other": "اخر",
-  "business": "العمل",
-  "gallery": "معرض الصور",
-  "camera": "الكاميرا",
-  "search": "البحث",
-  "empty": "محتوي فارغ",
-  "no_result": "لا يوجد نتائج",
-  "Terms Of Use": "سياسة الاستخدام",
-  "calories": "السعرات الحرارية",
-  "add your notes here": "اضف ملاحظاتك هنا",
-  "follow up type": "نوع المتابعة",
-  "delivery type": "نوع الاستلام",
-  "duration": "المدة الزمنية",
-  "follow up": "المتابعة",
-  "calorie": "سعرة",
-  "delivery": "توصيل",
-  "no delivery": "بدون توصيل",
-  "save": "حفظ",
-  "success": "تم بنجاح",
-  "cost": "التكلفة",
-  "my account": "حسابي",
-  "invoices": "المدفوعات",
-  "our store": "متجرنا",
-  "default location": "العنوان الاساسي",
-  "address title": "أسم العنوان",
-  "we are so happy you made it his far": "نحن سعداء بوجودك معنا، الرجاء الاجابة علي الاسئلة التالية لاتمام التسجيل.",
-  "delivery address": "عنوان التوصيل",
-  "pick at branch": "استلام من فرع",
-  "items": "العناصر",
-  "confirm order": "تأكيد الطلب",
-  "quantity": "الكمية",
-  "paused": "متوقف",
-  "it appears your shopping cart is empty": "يبدو ان عربة التسوق فراغة",
-  "start shopping now": "ابدأ التسوق الان",
-  "order successful": "تم الطلب بنجاح",
-  "thank you for your trust": "شكراً لك علي ثقتك بمنتجاتنا ، يمكنك الآن متابعة تفاصيل طلبك الحالي من خلال قائمة الطلبات",
-  "order details": "تفاصيل الطلب",
-  "no more orders for now": "لا يوجد طلبات اخرى",
-  "order number": "رقم الطلب",
-  "all orders": "كل الطلبات",
-  "saturday": "السبت",
-  "sunday": "الاحد",
-  "monday": "الاثنين",
-  "tuesday": "الثلاثاء",
-  "wednesday": "الاربعاء",
-  "thursday": "الخميس",
-  "friday": "الجمعة",
-  "you can pick the days on which you will receive delivery at this location": "يمكنك تحديد الأيام التي تريد التوصيل فيها لهذا المكان",
-  "delivery options": "خيارات التوصيل",
-  "services": "الخدمات",
-  "payment method": "طريقة الدفع",
-  "address": "ألعنوان",
-  "subscription successful": "تم الاشتراك بنجاح",
-  "select your meals": "الذهاب لاختيار الوجبات",
-  "meals of the day": "وجبات اليوم",
-  "our programs": "برامجنا",
-  "meal options": "إعدادات الوجبة",
-  "replace meal": "استبدال الوجبة",
-  "rate meal": "تقييم الوجبة",
-  "share meal": "مشاركة الوجبة",
-  "set subscription start date": "تحديد بداية الاشتراك",
-  "pick one right away": "أختر برنامج الان ",
-  "you haven't subscriped to a nutrition program yet": "لم تقم بالاشتراك في اي برنامج بعد",
-  "nutrition program": "النظام الغذائي",
-  "skip day": "تخطي اليوم",
-  "yes skip": "نعم ، تخطي",
-  "error skipping day": "خطأ في اليوم",
-  "error start subscription": "خطأ في بدأ الاشتراك",
-  "are you sure you want to skip the day": "هل حقا تريد تخطي اليوم ؟",
-  "no more items for now": "لا يوجد و وجبات اخرى في الوقت الراهن 😢",
-  "fresh start fresh food": "بداية جديدة لطعام طازج! اشترك الان و اكتشف الفرق ❤",
-  "no orders found here!": "لا يوجد طلبات هنا!",
-  "your cart is empty": "عربة التسوق فارغة. دعنا نغير ذلك!",
-  "track order status": "متابعة حالة الطلب",
-  "subscribe now": "اشترك الآن",
-  "credit debit card": "بطاقة بنكية",
-  "card holder": "حامل البطاقة",
-  "expiry date": "تاريخ الانتهاء",
-  "card number": "رقم البطاقة",
-  "transaction successful": "عملية دفع ناجحة",
-  "transaction unsuccessful": "فشلت عملية الدفع. يمكنك اعادة المحاولة",
-  "paid amount": "المبلغ المدفوع",
-  "payment status": "حالة الدفع",
-  "transaction cancelled": "تم الغاء عملية الدفع من المستخدم",
-  "available branches": "الفروع المتاحة",
-  "pickup branch": "فرع الاستلام",
-  "yes pause": "نعم. ايقاف مؤقت",
-  "are you sure you want to pause your nutrition plan": "هل حقا تود ايقاف اشتراكك ؟",
-  "warning": "تحذير",
-  "store": "المتجر",
-  "pause": "ايقاف البرنامج",
-  "vat": "قيمة الضريبة المضافة",
-  "subscription": "اشتراكي",
-  "program meals": "وجبات البرنامج",
-  "store warning": "نرجو طلب المنتجات قبل 8 مساءً (ويوم الجمعة 5 مساء) لتصلك غدا - ما عدا الاشتراكات بعد 72 ساعة - حاليا متواجدون في الرياض",
-  "continue subscription": "اكمال الاشتراك",
-  "subscription days": "ايام الاشتراك",
-  "skip duration": "تخطي ايام",
-  "skipped": "متخطي",
-  "this day is skipped for now": "هذا اليوم مؤجل الان",
-  "delivery date optional": "موعد التوصيل (اختياري)",
-  "welcome guest": "مرحبا بك!",
-  "no more notifications for now": "لا يوجد تنبيهات اخري في الوقت الراهن",
-  "support email": "بريد الدعم",
-  "phone": "الهاتف",
-  "chat with us": "تحدث معنا",
-  "kindly wait and one of our representatives will be with you momentarily": "الرجاء الانتظار و سيقوم احد ممثلينا بالرد عليك",
-  "pickup": "استلام",
-  "no pickup": "توصيل",
-  "with pickup": "بدون توصيل",
-  "dietitian": "اخصائي",
-  "without dietitian": "بدون اخصائي",
-  "having an issue with your order": "تواجه مشاكل في طلبك؟",
-  "search for a location": "ابحث عن مكان",
-  "with weekends": "مع اجازات اخر الاسبوع",
-  "without weekends": "بدون اجازات اخر الاسبوع",
-  "weekends": "اجازات الاسبوع",
-  "districts": "ألاحياء",
-  "search ingredients": "ابحث عن مكونات",
-  "repurchase": "اعادة شراء",
-  "start date": "موعد البدأ",
-  "select your desired start date": "اختر موعد البدأ",
-  "renew your subscription": "تجديد الاشتراك",
-  "renew": "تجديد",
-  "options": "اختيارات",
-  "for a certain duration": "لفترة محددة",
-  "indefinite": "الي فترة غير محددة",
-  "set end date": "حدد موعد الانتهاء",
-  "confirm": "تأكيد",
-  "are you sure you want to pause this day": "هل تريد تخطي هذا اليوم",
-  "skip": "تخطي",
-  "settings": "الاعدادات",
-  "complete day": "اكمال اليوم",
-  "your subscription": "اشتراكك:",
-  "remaining days": "الايام المتبقية:",
-  "total": "الإجمالي",
-  "gender": "الجنس",
-  "change subscription": "تغيير الاشتراك",
-  "remaining amount from the previous plan": "المبلغ المتبقي من الخطة السابقة",
-  "restore day": "ارجاع اليوم",
-  "subscription details": "تفاصيل الاشتراك",
-  "end date": "تاريخ الانتهاء",
-  "passed days": "الايام المستهلكة",
-  "no": "لا",
-  "yes": "نعم",
-  "faq": "أسئلة شائعة",
-  "confirm pausing your subscription": "تأكيد ايقاف اشتراكك؟",
-  "subscription renewel will be delayed in case the user pauses/delays the current subscription cycle": "سيتم تأخير تجديد الاشتراك في حالة تأجيل او ايقاف الاشتراك الحالي",
-  "note": "ملحوظة",
-  "we are happy with your experience": "نحن سعداء بتجربتك 😍​",
-  "tell us how satisfied you are about your diet watchers experience": "اخبرنا عن مدي رضاكِ بتحربة الوجبة المقدمة من دايت وتشرز وهل كانت مفيدة ؟.",
-  "tell us about your experience": "تحدث عن تجربتك",
-  "rate now": "تقييم الآن",
-  "next subscription": "الاشتراك القادم",
-  "your subscription can't start on a weekend": "لا يمكن بدأ اشتراكك في ايام نهاية الاسبوع",
-  "delivery difference": "سعر التوصيل",
-  "full experience": "تجربة كاملة",
-  "purchase meals only": "شراء الوجبات فقط",
-  "kindly select account type to procced with your register": "الرجاء اختيار نوع الحساب لاكمال التسجيل",
-  "this number is not registered": "هذا الرقم غير مسجل",
-  "full account": "حساب كامل",
-  "meals only account": "حساب وجبات فقط",
-  "used days": "الايام المستخدمة",
-  "member since": "عضو منذ",
-  "see more ingredients": "اظهار باقي المكونات",
-  "subscriptions": "اشتراكات",
-  "selected day": "اليوم المختار",
-  "skip the selected day only": "تخطي اليوم المختار فقط",
-  "skip from selected day to": "تخطي من اليوم المختار الي",
-  "hey": "هلا",
-  "dietition":"اخصائي التغذية",
-  "no new notifications here": "لا يوجد اشعارات جديدة",
-  "dietition fees": "رسوم الاخصائي",
-  "subscription calories": "سعارات الاشتراك",
-  "ingredients": "المكونات",
-  "select one or more ingredient": "اختر مكون او اكثر",
-  "waiting for an agent": "جاري الانتظار للرد...",
-  "new chat": "محادثة جديدة",
-  "your tickets": "التذاكر",
-  "days": "ايام",
-  "no tickets found here": "لأ يوجد محادثات سابقة",
-  "no more tickets for now": "لا يوجد محادثات اخري",
-  "you can't pause subscription before": "لا يمكن ايقاف الاشتراك قبل",
-  "you are not logged in": "لا يوجد تسجيل دخول",
-  "you can't skip any day before": "لا يمكن تخطي اي يوم قبل ",
-  "days to be added to the new plan": "الايام المضافة الي الاشتراك الجديد",
-  "message": "رسالتك",
-  "can't skip right now": "لا يمكن تخطي اليوم الان",
-  "duration in days": "المدة (الايام)",
-  "welcome to a healthier you": "مرحبًا بك في رحلة صحية جديدة! قبل أن نبدأ، يرجى اختيار تاريخ البداية. دعونا نبدأ التحول!",
-  "pay the subscription": "ادفع الاشتراك",
-  "previous payment info": "معلومات الدفع السابقة",
-  "payment unsuccessful you can try again within 3 hours to avoid order cancellation": "عملية الدفع غير ناجحة. يمكنك المحاولة خلال الثلاث ساعات القادمة لتجنب الغاء الطلب.",
-  "pay order": "ادفع الطلب",
-  "error": "خطأ",
-  "with friday and saturday": "مع يومي الجمعة والسبت",
-  "without friday and saturday": "بدون يومي الجمعة والسبت",
-  "but": ",لكن...",
-  "welcome to a healthy life": "هلا فيك لحياة صحية 😍 وقبل نبدأ لازم تختار تاريخ بداية الاشتراك",
-  "this chat is closed you can't send any more messages": "هذه المحادثة مغلقة, لا يمكن ارسال رسائل اخري.",
-  "select a district": "اختر المنطقة",
-  "district": "المنطقة",
-  "kindly note that we currently don't deliver outside of riyadh": "الرجاء الانتباه اننا حاليا لا نوصل الي خارج الرياض.",
-  "pay subscription": "اِدفع الاشتراك",
-  "you have to select a district first": "يجب اختيار المنطقة أولاً",
-  "dismiss": "تجاهل",
-  "check it out": "تفقد",
-  "unknown location": "موقع غير معروف",
-  "error fetching location": "خطآ في تحديد الموقع",
-  "can't deliver to this location": "لا يمكن التوصيل الي هذا الموقع",
-  "install diet watchers app and enjoy our services": "حمل تطبيق Diet Watchers واستمتع بخدمات التغزية المتنوعة",
-  "move the pointer to set location": "حرك الخريطة لاختيار العنوان",
-  "location is incorrect try resetting the address": "خطأ في تحديد الموقع, حاول تحديد العنوان مجددا.",
-  "kindly note that any change will take effect after 48 hours.": "تفضلوا بملاحظة أن أي تغيير سيتم تنفيذه بعد مرور 48 ساعة.",
-  "latest ticket": "احدث تذكرة",
-  "all tickets": "كل التذاكر",
-  "various food programs that meet your needs": "برامج غذائية متنوعة لكل طلباتك",
-  "next subscriptions": "الاشتراكات القادمة",
-  "confirming payment": "جار تأكيد الدفع ....",
-  "commencing payment": "بدأ الدفع..",
-  "initiating request": "جاري انشاء الطلب..",
-  "token unavailable": "لم يتعثر علي كود الدفع",
-  "apple pay is not activated for this device": "الدفع من خلال ابل غير متوفر لهذا الجهاز او المستخدم",
-  "delete account": "مسح الحساب",
-  "deleting account see you soon": "جاري مسح الحساب, نراك قريبا..",
-  "are you sure you want to permanently delete your account": "هل حقا ترغب في مسح الحساب نهائيا؟",
-  "account deletion": "مسح الحساب",
-  "creating order your please wait": "جاري تحضير طلبك. يرجي الانتظار..",
-  "card transaction unsuccessful": "دفع بالبطاقة غير ناجح",
-  "apple payment transaction unsuccessful": "دفع ابل باي غير ناجح",
-  "please enter a saudi number": "يرجي ادخال رقم هاتف سعودي.",
-  "registration id": "رقم التسجيل التعريفي",
-  "we wish you good health and wellness": "نتمنى لك صحة وعافية✋",
-  "welcome to our store": "اهلا بك في متجرنا",
-  "pick and choose from your favy meal": "اختر وجبتك المفضلة😋",
-  "google login aborted": "تسجيل جوجل ملغي",
-  "theme": "الوضع",
-  "dark mode": "الوضع المظلم",
-  "light mode": "الوضع المنير",
-  "system mode": "وضع النظام",
-  "clear": "مسح الكل",
-  "please enter your address title": "الرجاء ادخال اسم العنوان",
-  "kindly select a branch": "الرجاء اختيار فرع",
-  "you have to select a branch first to proceed": "يجب اختيار فرع اولا للاكمال",
-  "start making some": "ابدأ بعمل بعض الطلبات",
-  "no more data for now": "لا يوجد المزيد في الوقت الراهن...",
-  "no data found here": "لا يوجد معلومات الان",
-  "check back later you might find some": "عاود التفقد لاحقا, قد نجد شيء ما..",
-  "no items found here": "لا يوجد وجبات هنا",
-  "wallet": "المحفظة",
-  "your credit": "رصيدك",
-  "wallet topup": "شحن المحفظة",
-  "latest transactions": "آخر العمليات",
-  "transactions": "العمليات",
-  "topup amount": "مبلغ الشحن",
-  "filter": "تصفية",
-  "enter topup amount": "ادخل قيمة الشحن",
-  "gift card": "بطاقة الهدية",
-  "top up": "شحن",
-  "date": "التاريخ",
-  "all": "الكل",
-  "from": "من",
-  "to": "الي",
-  "charge": "شحن",
-  "sale": "شراء",
-  "reset": "اعادة تعيين",
-  "least amount": "الكمية الادنى",
-  "amount": "المبلغ",
-  "gift cards": "بطاقات الهدية",
-  "my cards": "بطاقاتي",
-  "all cards": "كل البطاقات",
-  "buy": "شراء",
-  "filling info": "تعبئة المعلومات",
-  "send to myself": "ارسال لنفسي",
-  "confirm info and purchase": "تأكيد المعلومات والشراء",
-  "card name": "اسم البطاقة",
-  "card provider": "مزود البطاقة",
-  "gift card value": "مبلغ بطاقة الهدايا",
-  "payment success": "تم الدفع بنجاح",
-  "set the required quantity": "حدد الكمية المطلوبة",
-  "share and win": "ارسل و اكسب",
-  "share diet watchers and earn 50 sar in your wallet": "شارك التطبيق واكسب 50 ريال في محفظتك!",
-  "receiver phone number": "رقم هاتف المستلم",
-  "receiver name":"اسم المستلم",
-  "sar":"ر.س",
-  "card code":"كود البطاقة",
-  "valid until":"صالح حتى",
-  "enter an invitation code optional": "ادخل رمز الدعوة (اختياري)",
-  "invitation code": "رمز الدعوة",
-  "refrees number":"عدد الإحالات",
-  "pay using a gift card": "ادفع باستخدام بطاقة الهدايا",
-  "pay using your wallet": "ادفع باستخدام محفظتك",
-  "pay":"ادفع",
-  "available credit": "الرصيد المتاح",
-  "referral":"الإحالة",
-  "referrals":"إحالات",
-  "did you get an invitation from anyone":"هل تم دعوتك من قبل صديق؟",
-  "our gift cards":"بطاقات الهدايا",
-  "gift cards for you and your loved ones":"بطاقات الهدايا لك وكل من تحب"
-}
+{}

@@ -17,7 +17,6 @@ class SVGAssets {
   static const String taxIcon = 'assets/images/svg/tax_icon.svg';
   static const String uploadCircle = 'assets/images/svg/upload_circle.svg';
   static const String us = 'assets/images/svg/us.svg';
-  static const String walledAdd = 'assets/images/svg/walled_add.svg';
   static const String facebook = 'assets/images/svg/Facebook.svg';
   static const String eyeSlash = 'assets/images/svg/eye-slash.svg';
   static const String eye = 'assets/images/svg/eye.svg';
@@ -34,5 +33,5 @@ class SVGAssets {
   static const String arrowDown= 'assets/images/svg/arrow-down.svg';
   static const String arrowLeft= 'assets/images/svg/Arrow.svg';
   static const String arrowRight= 'assets/images/svg/Arrow_right.svg';
-  static const String walletOperations = 'assets/images/svg/wallet_operations.svg';
+  static const String apple= 'assets/images/svg/apple.svg';
 }

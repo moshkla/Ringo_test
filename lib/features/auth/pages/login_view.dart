@@ -59,7 +59,7 @@ class _LoginPageState extends State<LoginPage> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Container(
-                    height: MediaQuery.of(context).size.height / 1.4,
+                    height: MediaQuery.of(context).size.height / 1.25,
                     alignment: Alignment.center,
                     child: FormBuilder(
                       key: _formKey,
@@ -89,8 +89,9 @@ class _LoginPageState extends State<LoginPage> {
                                       onPressed: () => context
                                           .read<LoginCubit>()
                                           .changePassVisibility(),
-
-                                      icon:state != true?SvgPicture.asset(SVGAssets.eyeSlash) :SvgPicture.asset(SVGAssets.eye)),
+                                      icon: state != true
+                                          ? SvgPicture.asset(SVGAssets.eyeSlash)
+                                          : SvgPicture.asset(SVGAssets.eye)),
                                 );
                               },
                             ),
@@ -107,9 +108,13 @@ class _LoginPageState extends State<LoginPage> {
                               selector: (state) => state.email,
                               builder: (context, state) {
                                 return PrimaryButton(
-                                  onPressed: state == null ? null : () {
-                                    RoutingUtils.router.pushReplacementNamed(RoutingUtils.base);
-                                  },
+                                  onPressed: state == null
+                                      ? null
+                                      : () {
+                                          RoutingUtils.router
+                                              .pushReplacementNamed(
+                                                  RoutingUtils.base);
+                                        },
                                   title: 'Login',
                                   width: double.infinity,
                                 );
@@ -188,8 +193,8 @@ class _LoginPageState extends State<LoginPage> {
                                       height: 20,
                                       constraints:
                                           const BoxConstraints(maxWidth: 40),
-                                      child: Image.asset(
-                                        PNGAssets.apple,
+                                      child: SvgPicture.asset(
+                                        SVGAssets.apple,
                                         color: Colors.black,
                                       ),
                                     ),

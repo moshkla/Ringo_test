@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';
 import 'package:ringo_test/features/auth/pages/login_view.dart';
-import 'package:ringo_test/features/base/base_view.dart';
+import 'package:ringo_test/features/base/pages/base_view.dart';
 import 'package:ringo_test/features/splash/pages/splash_page.dart';
 
 import '../../features/auth/cubit/login_cubit.dart';
@@ -41,7 +41,7 @@ class RoutingUtils {
     GoRoute(
       path: base,
       name: base,
-      builder: (context, state) => const BaseView(),
+      builder: (context, state) => const BasePage(),
     ),
   ];
 }

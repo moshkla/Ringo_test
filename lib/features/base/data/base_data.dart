@@ -10,29 +10,30 @@ import '../models/base_data_mode.dart';
 List<BaseDataModel> baseData = [
   BaseDataModel(
       'Category',
-      const SizedBox(),
+      const SummaryPage(),
       SvgPicture.asset(SVGAssets.category, height: 24),
       SvgPicture.asset(SVGAssets.category,
           color: AppColors.primaryColor, height: 24)),
   BaseDataModel('Project Summary', const SummaryPage(),
       SvgPicture.asset(SVGAssets.folder), SvgPicture.asset(SVGAssets.folderOn)),
-  BaseDataModel(
-      '',
-      const SizedBox(),
-      SvgPicture.asset(
-        SVGAssets.calendar,
-        color: Colors.white,
-        height: 24,
-      ),
-      SvgPicture.asset(
-        SVGAssets.calendarOn,
-        color: Colors.white,
-      )),
+  // BaseDataModel(
+  //     '',
+  //     const SizedBox(),
+  //     SvgPicture.asset(
+  //       SVGAssets.calendar,
+  //       color: Colors.white,
+  //       height: 24,
+  //     ),
+  //     SvgPicture.asset(
+  //       SVGAssets.calendarOn,
+  //       color: Colors.white,
+  //     )),
   BaseDataModel(
       'Calendar',
       const CalendarPage(),
       SvgPicture.asset(
         SVGAssets.calendar,
+
       ),
       SvgPicture.asset(
         SVGAssets.calendarOn,

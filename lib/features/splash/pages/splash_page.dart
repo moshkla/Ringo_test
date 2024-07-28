@@ -28,21 +28,36 @@ class _SplashPageState extends State<SplashPage> {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Text('Welcome Team Ringo',style: context.textTheme.headlineLarge?.copyWith(color: Colors.white),),
+          Text(
+            'Welcome Ringo!',
+            style:
+                context.textTheme.headlineLarge?.copyWith(color: Colors.white),
+          ),
           16.space,
           Text.rich(
-              style: context.textTheme.titleLarge?.copyWith(color: Colors.white),
+              style:
+                  context.textTheme.titleLarge?.copyWith(color: Colors.white),
               TextSpan(children: [
-            TextSpan(text: 'My Name is : '),
-            TextSpan(text: 'Anas Abd Elazim',style: context.textTheme.headlineLarge?.copyWith(color: AppColors.fireColor)),
-          ])),
+                const TextSpan(text: 'My Name is : '),
+                TextSpan(
+                    text: 'Anas Abd Elazim',
+                    style: context.textTheme.headlineLarge
+                        ?.copyWith(color: AppColors.fireColor)),
+              ])),
           8.space,
-          Text('And Here is my work',style: context.textTheme.titleLarge?.copyWith(color: Colors.white),),
-         8.space,
-          Text('anasabdelazim602@gmail.com',style: context.textTheme.titleLarge?.copyWith(color: Colors.white),),
-
+          Text(
+            'And Here is my work',
+            style: context.textTheme.titleLarge?.copyWith(color: Colors.white),
+          ),
+          8.space,
+          Text(
+            'anasabdelazim602@gmail.com',
+            style: context.textTheme.titleLarge?.copyWith(color: Colors.white),
+          ),
           Center(
-            child: Lottie.asset(LottieAssets.loading,),
+            child: Lottie.asset(
+              LottieAssets.loading,
+            ),
           ),
         ],
       ),

@@ -8,21 +8,21 @@ import 'package:ringo_test/core/router/routing_utils.dart';
 import 'package:ringo_test/shared/widgets/general_app_bar.dart';
 import 'package:ringo_test/shared/widgets/primary_button.dart';
 
-import '../../core/constants/app_colors.dart';
-import 'cubit/base_bloc.dart';
-import 'cubit/base_state.dart';
-import 'data/base_data.dart';
+import '../../../core/constants/app_colors.dart';
+import '../cubit/base_bloc.dart';
+import '../cubit/base_state.dart';
+import '../data/base_data.dart';
 
-class BaseView extends StatefulWidget {
+class BasePage extends StatefulWidget {
   final int? baseIndex;
 
-  const BaseView({super.key, this.baseIndex});
+  const BasePage({super.key, this.baseIndex});
 
   @override
-  State<BaseView> createState() => _BaseViewState();
+  State<BasePage> createState() => _BasePageState();
 }
 
-class _BaseViewState extends State<BaseView> with RouteAware {
+class _BasePageState extends State<BasePage> with RouteAware {
   @override
   Widget build(BuildContext context) {
     return BlocBuilder<BaseCubit, BaseState>(
