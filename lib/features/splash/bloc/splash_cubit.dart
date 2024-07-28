@@ -14,6 +14,6 @@ class SplashCubit extends Cubit<SplashState> {
         const Duration(
           seconds: 3,
         ),
-            () => RoutingUtils.router.pushReplacementNamed(RoutingUtils.base));
+            () => RoutingUtils.router.pushReplacementNamed(RoutingUtils.login));
   }
 }

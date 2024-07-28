@@ -20,7 +20,7 @@ class RoutingUtils {
 
 
   static final GoRouter router = GoRouter(
-    initialLocation: login,
+    initialLocation: splash,
     routes: routes,
     observers: [routeObserver],
   );
